@@ -59,9 +59,11 @@ https://github.com/safahusnat/fashion-inventory-management
 
 ---
 
-## 📚 Currently Learning
-- ASP.NET Core
-- Backend Development
-- APIs & REST Services
-- Cloud Technologies
+## 📚 Current Focus
+
+- Full-Stack Development with ASP.NET Core
+- Backend APIs and REST Services
+- Machine Learning & AI Applications
+- SQL Database Design and Integration
 - Software Engineering Best Practices
+- Cloud Technologies and Deployment
