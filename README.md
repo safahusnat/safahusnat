@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Safa Husnat 👋
 
-<!--
-**safahusnat/safahusnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Final-year Computer Science student with a strong interest in Software Engineering, Artificial Intelligence, Data Science, and Full-Stack Development.
 
-Here are some ideas to get you started:
+I enjoy building practical software applications, AI systems, and data-driven solutions while continuously developing my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+### Languages
+- Python
+- Java
+- C#
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Tools
+- ASP.NET Core MVC
+- PyTorch
+- scikit-learn
+- Streamlit
+- Power BI
+- GitHub
+- Visual Studio
+- Unity
+
+### Technical Areas
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Full-Stack Development
+- Object-Oriented Programming
+- Data Visualisation
+
+---
+
+## 💻 Featured Projects
+
+### Fashion AI Image Classification
+AI and Machine Learning comparison project using ResNet-18, Random Forest, and K-Means for multi-domain fashion image classification.
+
+**Technologies:** Python, PyTorch, scikit-learn, Machine Learning
+
+🔗 Repository:  
+https://github.com/safahusnat/fashion-ai-classification
+
+---
+
+### Fashion Inventory Management System
+Full-stack ASP.NET Core MVC inventory management application with dashboard analytics, stock monitoring, filtering, and CRUD operations.
+
+**Technologies:** C#, ASP.NET Core MVC, SQL, HTML, CSS
+
+🔗 Repository:  
+https://github.com/safahusnat/fashion-inventory-management
+
+---
+
+## 📚 Currently Learning
+- ASP.NET Core
+- Backend Development
+- APIs & REST Services
+- Cloud Technologies
+- Software Engineering Best Practices
